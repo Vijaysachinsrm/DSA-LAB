@@ -1,2 +1,1 @@
-# DSA-LAB
-DSA Lab Experiments
+# DSA
